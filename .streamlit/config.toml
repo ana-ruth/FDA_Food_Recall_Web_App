@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8f2b25" #example for buttons and highlights
+backgroundColor = "#EAEBF8"
+secondaryBackgroundColor = "#9DAED2" #example for the sidebar
+textColor = "#232e2a"
+font = "sans serif"

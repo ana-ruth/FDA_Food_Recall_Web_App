@@ -1,0 +1,5 @@
+# Ignore secrets file
+secrets.toml
+
+# Streamlit secrets
+.streamlit/secrets.toml
